@@ -1,6 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
 .body {
+  background-color: black;
   padding: 8vh;
   display: flex;
   justify-content: center;
